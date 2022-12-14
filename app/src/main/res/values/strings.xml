@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication1099</string>
+    <string name="pytanie">co tam</string>
+    <string name="odpa">Nad Morskim Okiem</string>
+    <string name="odpb">Na Wielkiej Raczy</string>
+    <string name="odpc">Na Rysiance</string>
+    <string name="spr">Sprawdz</string>
+</resources>
